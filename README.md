@@ -2,4 +2,5 @@ This R script adds NCBI Gene IDs to the gene list for which the DOMINO tool prov
 Tools and References:
 
 DOMINO: A tool that predicts the dominance likelihood of human genetic variants. DOMINO website: https://domino.iob.ch/
+
 rentrez: An R package for interacting with NCBI databases. rentrez CRAN: https://cran.r-project.org/web/packages/rentrez/index.html
